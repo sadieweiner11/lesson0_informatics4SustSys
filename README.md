@@ -7,6 +7,8 @@ All other files are supporting materials for documenting this repo.
 
 With this lesson we will practice the basic coding concepts discussed in class:
 
+I am adding a line to README.
+
 |||
 |------|------|
 |**Concept 1 - Sequence**|**Concept 2 - Variables**|
